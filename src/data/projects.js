@@ -21,7 +21,7 @@ const projects = [
   {
     title: "Gym Membership Management System Using SQL and Python",
     description: "This project involves the creation of a Gym Membership Management System that efficiently manages members, trainers, classes, and attendance. The system was designed to streamline gym operations, improve resource allocation, and provide insightful reports on gym usage.",
-    image: '/screenshot/Gym.JPGgit',
+    image: '/screenshot/Gym.JPG',
     url: "https://github.com/realpauly/Gym-Membership-Management-System-Using-SQL-and-Python/blob/main/README.md/",
     repoType: "Public",
     tags: ["Python", "SOL", "LUCID"],
