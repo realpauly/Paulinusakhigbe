@@ -1,7 +1,7 @@
 
 ```mdx
 ## Overview
-Software Developer Portfolio Template
+Data Analyst Portfolio Template
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
