@@ -12,7 +12,7 @@ const poppins = Poppins({
 export const metadata = {
   title: "Paulinus Akhigbe",
   description:
-    "I'm a dedicated master's student specializing in data analysis, with expertise in statistical methodologies, data mining, and predictive modeling. I have experience in data collection, cleansing, analysis, and visualization to drive data-driven decisions. My ability to translate complex data into actionable insights equips me to contribute to innovative, real-world solutions.",
+    "I am a results-driven Data Analyst and Machine Learning Engineer with a passion for harnessing the power of AI and Machine Learning to transform complex datasets into actionable insights. With a strong foundation in SQL, Python, and data visualization tools like Power BI and Tableau, I build intelligent, data-driven solutions that enhance business decision-making and drive operational efficiency. My expertise extends beyond traditional data analysis to developing and deploying machine learning models, predictive analytics, and AI-powered systems. I specialize in designing scalable data pipelines, automating ETL processes, and crafting interactive dashboards that empower stakeholders to easily interpret and act on data insights.",
 };
 
 const RootLayout = ({ children }) => {

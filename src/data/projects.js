@@ -34,7 +34,38 @@ const projects = [
     repoType: "Public",
     tags: ["R"],
   },
-  
+  {
+    title: "Practical Comparison of Vision Transformers and CNNs for Resource Constrained Image Classification",
+    description: "The focus of this project was on the application of ViTs and CNNs to the CIFAR-10 dataset, a widely used benchmark for image classification. The comparison considered two key aspects: efficiency and accuracy. By analyzing their performance in resource-limited environments, the study provided insights into the practicality of these models in real-world applications where computational and data resources are limited.",
+    image: '/screenshot/CNNs.png',
+    url: "https://github.com/realpauly/Practical-Comparison-of-Vision-Transformers-and-CNNs-for-Resource-Constrained-Image-Classification",
+    repoType: "Public",
+    tags: ["Python", "PyTorch"],
+  },
+  {
+    title: "Cluster-Analysis-of-Wholesale-Customers-Using-K-Means-Hierarchical-Clustering-and-DBSCAN",
+    description: "The significance of cluster analysis lies in its ability to simplify complex data by organizing it into meaningful groups, enabling better insights and decision-making. For example, in marketing, cluster analysis can help identify distinct customer segments, allowing companies to tailor their products and services to meet specific needs. In biology, it can group genes or species based on similarities, aiding in the understanding of evolutionary relationships. Overall, cluster analysis is a powerful tool for exploring data, identifying trends, and informing strategies across various domains.",
+    image: '/screenshot/clustering.png',
+    url: "https://github.com/realpauly/Cluster-Analysis-of-Wholesale-Customers-Using-K-Means-Hierarchical-Clustering-and-DBSCAN",
+    repoType: "Public",
+    tags: ["Python", "SCIKIT-Learn"],
+  },
+  {
+    title: "Anomaly Detection in Credit Card Fraud Transactions",
+    description: "Anomaly detection involves identifying instances in a dataset that significantly deviate from the expected norm. This process is essential in fields such as fraud detection, network security, and medical diagnostics, where anomalous patterns may indicate fraudulent activity, security breaches, or critical health conditions. Anomaly detection is particularly valuable in credit card fraud detection, where identifying fraudulent transactions from a large volume of legitimate transactions can mitigate financial losses and enhance security.",
+    image: '/screenshot/Anomaly.png',
+    url: "https://github.com/realpauly/Anomaly-Detection-in-Credit-Card-Fraud-Transactions",
+    repoType: "Public",
+    tags: ["Python", "PyTorch"],
+  },
+  {
+    title: "Building a Simple Causal Language Model using Transformers",
+    description: "In this project, we aim to build a simple causal language model using PyTorch and the Transformers library. The model will be trained on the WikiQA dataset, a small and older Question-Answer dataset, .The primary objective is to develop a causal model that can generate text by predicting the next word in a sequence, based on previously seen tokens. Unlike sequence-to-sequence models, causal models focus on autoregressive generation, where each token depends only on its preceding tokens.",
+    image: '/screenshot/NLP.jpeg',
+    url: "https://github.com/realpauly/Building-a-Simple-Causal-Language-Model-using-Transformers",
+    repoType: "Public",
+    tags: ["Python", "PyTorch"],
+  },
 ];
 
 export default projects;
