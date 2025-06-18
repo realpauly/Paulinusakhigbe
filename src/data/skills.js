@@ -1,14 +1,14 @@
 const skills = [
   {
-    title: "Python",
+    title: "QuickBooks",
     level: "⭐⭐⭐",
-    icon: "/logo/python.png",
+    icon: "/logo/Qb.jpg",
   },
 
   {
-    title: "R",
+    title: "Sage Accounting",
     level: "⭐⭐⭐",
-    icon: "/logo/R.png",
+    icon: "/logo/Sge.png",
   },
   {
     title: "SQL",
@@ -22,44 +22,15 @@ const skills = [
   },
   
   {
-    title: "Tableau",
+    title: "Excel",
     level: "⭐⭐⭐",
-    icon: "/logo/Tableau.png",
+    icon: "/logo/Exl.jpg",
   },
+
   {
-    title: "Apache Spark",
+    title: "Xero",
     level: "⭐⭐",
-    icon: "/logo/Apache-Spark.png",
-  },
-  {
-    title: "Apache Hadoop",
-    level: "⭐⭐",
-    icon: "/logo/Apache-Hadoop.png",
-  },
-  {
-    title: "Airflow",
-    level: "⭐⭐",
-    icon: "/logo/airflow.png",
-  },
-  {
-    title: "Kafka",
-    level: "⭐⭐",
-    icon: "/logo/kafka.png",
-  },
-  {
-    title: "AWS",
-    level: "⭐⭐",
-    icon: "/logo/AWS.png",
-  },
-  {
-    title: "Data Bricks",
-    level: "⭐⭐",
-    icon: "/logo/Data-bricks.png",
-  },
-  {
-    title: "Snowflake",
-    level: "⭐⭐",
-    icon: "/logo/snowflakes.png",
+    icon: "/logo/Xro.jpg",
   },
 
 ];

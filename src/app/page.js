@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <PageBox>
       <Head>
-        <title>Paulinus Akhigbe</title>
+        <title>Nwafor Vincent Ekenechukwu</title>
         <meta name="description" content="Fullstack software engineer based in Bangladesh" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="/favicon.ico" />

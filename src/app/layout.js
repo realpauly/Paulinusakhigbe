@@ -10,9 +10,9 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Paulinus Akhigbe",
+  title: "Nwafor Vincent Ekenechukwu",
   description:
-    "I'm a dedicated master's student specializing in data analysis, with expertise in statistical methodologies, data mining, and predictive modeling. I have experience in data collection, cleansing, analysis, and visualization to drive data-driven decisions. My ability to translate complex data into actionable insights equips me to contribute to innovative, real-world solutions.",
+    "Experienced accounting and data management professional with over four years in financial analysis, client relations, and compliance. Skilled in problem-solving, data visualization, and delivering accurate results to streamline operations and enhance client satisfaction.",
 };
 
 const RootLayout = ({ children }) => {
