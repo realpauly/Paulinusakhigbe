@@ -4,7 +4,21 @@ const skills = [
     level: "⭐⭐⭐",
     icon: "/logo/Qb.jpg",
   },
-
+  {
+    title: "PyTorch",
+    level: "⭐⭐⭐",
+    icon: "/logo/pytorch.png",
+  },
+  {
+    title: "Tensor Flow",
+    level: "⭐⭐⭐",
+    icon: "/logo/Tensorflow.png",
+  },
+  {
+    title: "Scikit Learn",
+    level: "⭐⭐⭐",
+    icon: "/logo/scikit.png",
+  },
   {
     title: "Sage Accounting",
     level: "⭐⭐⭐",

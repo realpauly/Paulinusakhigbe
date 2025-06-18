@@ -33,7 +33,7 @@ const projects = [
     url: "https://github.com/realpauly/Exploring-the-Dynamics-of-Billionaire-Wealth-and-Economic-Indicators-with-R-for-Statistical-Analysis/blob/main/README.m",
     repoType: "Public",
     tags: ["Sage","Excel"],
-  },
+  }
   
 ];
 
