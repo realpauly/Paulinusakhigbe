@@ -1,27 +1,27 @@
 const services = [
   {
-    title: "Financial Reporting",
+    title: "Data Analysis",
     image: "/icons/Data-Anal.webp",
     description:
-      "I prepare and analyze financial reports to ensure accuracy in reflecting a company's financial activities. This includes reconciling accounts, preparing daily and monthly reports, and providing insights into financial performance for clients like Oracle and Amazon.",
+      "I specialize in transforming raw data into valuable insights that drive business decisions. Whether analyzing customer behavior, operational efficiency, or market trends, I apply statistical techniques and data visualization tools to uncover actionable intelligence. By leveraging industry-standard software and cutting-edge methods, I provide detailed reports and interactive dashboards that help businesses make informed decisions. My data analysis services ensure that your organization can harness the power of its data to fuel growth and innovation.",
   },
   {
-    title: "Data Management",
+    title: "Data Engineering",
     image: "/icons/Data-Eng.webp",
     description:
-      "I oversee the collection, organization, and storage of data, ensuring it is accurate and easily accessible. My work enhances operational efficiency and supports informed decision-making based on reliable data.",
+      "With expertise in building and managing scalable data pipelines, I create robust data architectures that ensure seamless data flow across your organization. From data collection and processing to integration and storage, I implement efficient data engineering solutions tailored to your specific needs. Using modern technologies, I build and maintain cloud-based and on-premises data platforms that support both real-time and batch processing. My goal is to ensure your data infrastructure is reliable, scalable, and ready to meet the demands of modern analytics.",
   },
   {
-    title: "Compliance",
+    title: "Predictive Modeling",
     image: "/icons/Pred-mode.webp",
     description:
-      "I ensure that financial processes follow both internal policies and external regulations. By conducting compliance reviews, I help reduce risks and ensure that operations are fully aligned with legal and regulatory standards.",
+      "Utilizing advanced machine learning algorithms and statistical models, I offer predictive modeling services that help businesses forecast future outcomes and trends. From customer behavior predictions to demand forecasting and risk management, my models provide insights that enable strategic decision-making. I work closely with clients to understand their unique challenges and customize models that deliver accurate, actionable results. By leveraging my expertise in data mining and predictive analytics, I help you stay ahead of the curve and anticipate market shifts.",
   },
   {
-    title: "Process Optimization",
+    title: "Business Intelligence Reporting",
     image: "/icons/Bus-Int-Rep.webp",
     description:
-      "I streamline workflows, reducing inefficiencies and improving operational processes. This includes implementing tools to enhance data accuracy, cutting processing time, and reducing errors to boost overall productivity.",
+      "I design and deliver interactive and visually compelling business intelligence (BI) reports that turn raw data into clear and actionable insights. My solutions focus on providing stakeholders with real-time, easy-to-understand dashboards that enable quick, informed decisions. With experience in tools like Power BI, Tableau, and Looker, I create customized BI solutions tailored to your organization's needs. My reporting services empower businesses to track key performance indicators, monitor operations, and optimize processes efficiently.",
   },
   {
     title: "Machine Learning",

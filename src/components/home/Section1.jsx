@@ -53,7 +53,7 @@ const HomeSection1 = ({ current, setCurrent }) => {
             <Row classes="mt-8 gap-4">
               <FilledButton
                 label="Get in touch"
-                onClick={() => onHandleClickUrl("mailto:Vincentnwafor279@gmail.com")}
+                onClick={() => onHandleClickUrl("mailto:paulinus.akhigbe@aol.com")}
                 className="button button--solid min-w-[128px] md:button--big"
               />
 

@@ -47,7 +47,7 @@ const HomeSection6 = ({ current, setCurrent }) => {
             <Row
               classes="bg-[var(--textColor10)] p-4 rounded-[var(--borderRadius)] items-center text-center justify-center cursor-pointer animated__hover"
               onClick={() =>
-                onHandleClickUrl("mailto:Vincentnwafor279@gmail.com")
+                onHandleClickUrl("mailto:paulinus.@aol.com")
               }
             >
               <span className="text-xl">
@@ -55,7 +55,7 @@ const HomeSection6 = ({ current, setCurrent }) => {
               </span>
 
               <p className="text-lg font-semibold ml-2">
-              Vincentnwafor279@gmail.com
+                paulinus.akhigbe@aol.com
               </p>
             </Row>
 

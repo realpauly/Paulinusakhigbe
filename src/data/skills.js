@@ -1,8 +1,8 @@
 const skills = [
   {
-    title: "QuickBooks",
+    title: "Python",
     level: "⭐⭐⭐",
-    icon: "/logo/Qb.jpg",
+    icon: "/logo/python.png",
   },
   {
     title: "PyTorch",
@@ -20,9 +20,9 @@ const skills = [
     icon: "/logo/scikit.png",
   },
   {
-    title: "Sage Accounting",
+    title: "R",
     level: "⭐⭐⭐",
-    icon: "/logo/Sge.png",
+    icon: "/logo/R.png",
   },
   {
     title: "SQL",
@@ -36,15 +36,44 @@ const skills = [
   },
   
   {
-    title: "Excel",
+    title: "Tableau",
     level: "⭐⭐⭐",
-    icon: "/logo/Exl.jpg",
+    icon: "/logo/Tableau.png",
   },
-
   {
-    title: "Xero",
+    title: "Apache Spark",
     level: "⭐⭐",
-    icon: "/logo/Xro.jpg",
+    icon: "/logo/Apache-Spark.png",
+  },
+  {
+    title: "Apache Hadoop",
+    level: "⭐⭐",
+    icon: "/logo/Apache-Hadoop.png",
+  },
+  {
+    title: "Airflow",
+    level: "⭐⭐",
+    icon: "/logo/airflow.png",
+  },
+  {
+    title: "Kafka",
+    level: "⭐⭐",
+    icon: "/logo/kafka.png",
+  },
+  {
+    title: "AWS",
+    level: "⭐⭐",
+    icon: "/logo/AWS.png",
+  },
+  {
+    title: "Data Bricks",
+    level: "⭐⭐",
+    icon: "/logo/Data-bricks.png",
+  },
+  {
+    title: "Snowflake",
+    level: "⭐⭐",
+    icon: "/logo/snowflakes.png",
   },
 
 ];
